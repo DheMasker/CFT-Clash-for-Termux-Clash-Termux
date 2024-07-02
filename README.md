@@ -11,7 +11,7 @@ termux-setup-storage;pkg update -y;pkg upgrade -y;pkg install wget -y;wget https
 mv cft /data/data/com.termux/files/usr/bin/;cd /data/data/com.termux/files/usr/bin/;chmod 755 cft;exit
 
 2.APN home/internet proxy 127.0.0.1 port 7890 (TCP)
-3.SOCKS5 UDP/socksdroid apk proxy 127.0.0.1 proxy 7891 (UDP BYPASS MODE com.termux)
+3.SOCKS5 UDP/socksdroid apk proxy 127.0.0.1 proxy 7891 (UDP BYPASS MODE com.termux) | https://github.com/bndeff/socksdroid/releases/
 
 4.cft
 
