@@ -21,7 +21,7 @@ mv cft /data/data/com.termux/files/usr/bin/;cd /data/data/com.termux/files/usr/b
 
 
 yacd 
-https://github.com/haishanh/yacd/archive/gh-pages.zip
+https://github.com/haishanh/yacd/releases
 
 yacd meta
 https://github.com/MetaCubeX/Yacd-meta/releases
