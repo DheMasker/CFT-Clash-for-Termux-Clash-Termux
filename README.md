@@ -24,7 +24,7 @@ yacd
 https://github.com/haishanh/yacd/archive/gh-pages.zip
 
 yacd meta
-https://codeload.github.com/MetaCubeX/Yacd-meta/zip/refs/heads/gh-pages
+https://github.com/MetaCubeX/Yacd-meta/releases
 
-yacd metacub
-https://codeload.github.com/MetaCubeX/Yacd-meta/zip/refs/tags/v0.3.7
+yacd metacubex
+https://github.com/MetaCubeX/metacubexd/releases
